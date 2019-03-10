@@ -1,0 +1,10 @@
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\bin\Debug\Time_Timer.exe.config
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\bin\Debug\Time_Timer.exe
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\bin\Debug\Time_Timer.pdb
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\obj\Debug\Time_Timer.csprojAssemblyReference.cache
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\obj\Debug\Time_Timer.Time_Timer.resources
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\obj\Debug\Time_Timer.Properties.Resources.resources
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\obj\Debug\Time_Timer.csproj.GenerateResource.cache
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\obj\Debug\Time_Timer.csproj.CoreCompileInputs.cache
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\obj\Debug\Time_Timer.exe
+C:\Users\dggwa\Desktop\Time Timer\Time_Timer\Time_Timer\obj\Debug\Time_Timer.pdb
